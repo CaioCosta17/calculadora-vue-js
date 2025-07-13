@@ -34,7 +34,7 @@
 <template>
   <div id="app" class="d-flex justify-content-center align-items-center min-vh-100 bg-dark">
     <div class="card p-4" style="width: 28rem;">
-      <h2 class="card-title text-center mb-4 fw-bold">Calculadora Aritmética</h2>
+      <h2 class="card-title text-center mb-4 fw-bold">Calculadora Aritmétrica</h2>
       <div class="mb-3">
         <label for="numero1" class="form-label fw-bold">Primeiro Número:</label>
         <input
